@@ -1,0 +1,37 @@
+.details-table {
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.details-table-rows,
+.details-table-rows td,
+.details-table-rows th {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+button {
+  font-size: 25px;
+  border: none;
+}
+.but {
+  display: flex;
+  justify-content: right;
+  border:5px solid gray;
+}
+
+.img{
+  width: 1800px;
+  height: 850px;
+  border-radius: 150px;
+  margin-left: 70px;
+  margin-right: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  box-shadow:  0px 0px 30px rgb(255, 0, 0);
+  border:5px solid white
+}
+.bac{
+  background-color:lightgray;
+}

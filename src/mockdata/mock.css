@@ -1,0 +1,9 @@
+.details-table {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+
+.details-table-rows,.details-table-rows td, .details-table-rows th {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
